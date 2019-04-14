@@ -1,0 +1,20 @@
+{
+  "name": "slack-joke",
+  "version": "1.0.0",
+  "description": "slack bot to display a random joke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caidicaidi123/slack-joke.git"
+  },
+  "author": "caidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caidicaidi123/slack-joke/issues"
+  },
+  "homepage": "https://github.com/caidicaidi123/slack-joke#readme"
+}
